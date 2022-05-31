@@ -1,0 +1,10 @@
+.navright{
+    position: absolute;
+    right: 2rem;
+}
+.nitem-postion{
+    background-color: gold;
+}
+body {
+    background-color: gold;
+}

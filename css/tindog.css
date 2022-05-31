@@ -1,0 +1,133 @@
+ .navitem-position{
+    position:absolute;
+    right: 8rem;
+} 
+ .navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    
+    color: aliceblue;
+    position: relative;
+    left: -5rem;
+    font-size: 2rem;
+} 
+body {
+    background-color: #ff4c68;
+    color:white;
+}
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 14%;
+    padding-top: 15%;
+    font-size: 3rem;
+}
+ .nav-link {
+    margin: 0 1rem 0 1rem;
+    color: #8f8f8f;
+    font-family: 'Montserrat', sans-serif;
+
+} 
+.container-fluid{
+    padding: 3% 15%;
+}
+.ipimage {
+    position: relative;
+    left: 4rem;
+    margin-top: 15%;
+    width: 80%;
+    transform: rotate(25deg);
+}
+.navbar-nav{
+    position: relative;
+    left: 13rem;
+}
+.btn {
+    line-height: 2;
+    margin:5% 3% 5% 0;
+}
+.ffonts {
+    color:black;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.icenter {
+    
+    text-align: center;
+}
+.fa-solid {
+    color: #ef8172;
+}
+.bcolor {
+    background-color: white;
+}
+.pcolor {
+    font-family: 'Montserrat', sans-serif;
+    color:#8f8f8f;
+}
+.ihover:hover{
+    color: #ff4c68;
+}
+.row {
+    padding: 2rem 2rem;
+}
+.ihover{
+    padding:1rem;
+}
+.testi-color {
+    background-color: #ef8172;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 5;
+    padding: 7% 15%
+
+}
+.courosel-image{
+    width: 5%;
+    border-radius: 100%;
+}
+.dog-h2 {
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.press-img{
+    width: 15%;
+    margin: 4%;
+}
+.col {
+    color: black;
+}
+.pricing-heading {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#pricing-p {
+    font-size: 1.5rem;
+    color: #8f8f8f;
+    line-height:1.5
+}
+.pricing-position {
+    background-color:white;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 4%;
+    color: black; 
+}
+.list-unstyled {
+    font-size: 1.5rem;
+}
+.cta-font {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 4.5rem;
+    background-color: #ff4c68;
+}
+.btn-pos {
+    text-align: center;
+}
+#footer {
+    text-align: center;
+    background-color:white;
+    color: #8f8f8f;
+    padding: 7% 15%;
+}
